@@ -11,3 +11,7 @@ A simple Pomodoro counter built to practice basic JavaScript concepts like DOM m
 ## Credits
 
 Original project idea from Scrimba. I personalized it as suggested in the course.
+
+## Author
+
+Shuri
